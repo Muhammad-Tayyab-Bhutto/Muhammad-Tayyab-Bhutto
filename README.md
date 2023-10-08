@@ -1,7 +1,10 @@
+[![MasterHead](https://camo.githubusercontent.com/f7894ccfe5f969fc2ef0c0023ae611e88da80b9381f0b90360d58b158d27593b/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-tayyab-bhutto&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-tayyab-bhutto" /> </p>
+
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=muhammad-tayyab-bhutto&label=Profile%20views&color=0e75b6&style=flat](https://d540vms5r2s2d.cloudfront.net/mad/uploads/mad_blog_5e9818ec9c2391587026156.png)" alt="muhammad-tayyab-bhutto" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-tayyab-bhutto" alt="muhammad-tayyab-bhutto" /></a> </p>
 
