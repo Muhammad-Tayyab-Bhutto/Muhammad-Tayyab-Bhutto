@@ -3,10 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=muhammad-tayyab-bhutto&label=Profile%20views&color=0e75b6&style=flat](https://d540vms5r2s2d.cloudfront.net/mad/uploads/mad_blog_5e9818ec9c2391587026156.png)" alt="muhammad-tayyab-bhutto" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-tayyab-bhutto" alt="muhammad-tayyab-bhutto" /></a> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D4D16AQEihmxYDSF1tw/profile-displaybackgroundimage-shrink_350_1400/0/1680474655079?e=1702512000&v=beta&t=egvsmu7ThUWv7evTN4_i4KDt5LADTRdMAHGgg4mlGa8" alt="muhammad-tayyab-bhutto" /> </p>
 
 - 🔭 I’m currently working on [Web3.0](https://github.com/Muhammad-Tayyab-Bhutto/SmartContract)
 
