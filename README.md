@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/f7894ccfe5f969fc2ef0c0023ae611e88da80b9381f0b90360d58b158d27593b/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67)](https://muhammadtayyabbhutto.netlify.com)
+[![MasterHead](https://www.linkedin.com/in/muhammad-tayyab-bhutto/overlay/background-image/)](https://muhammadtayyabbhutto.netlify.com)
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
