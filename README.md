@@ -1,4 +1,5 @@
-[![MasterHead](https://drive.google.com/file/d/1rR8JKTC1Vx8DqRT0Z4D4JktUP_JjDl_A/view?usp=sharing)]
+![Cover Image](https://drive.google.com/uc?export=view&id=1rR8JKTC1Vx8DqRT0Z4D4JktUP_JjDl_A)
+
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
