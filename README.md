@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/muhammad-tayyab-bhutto/overlay/background-image/)](https://muhammadtayyabbhutto.netlify.com)
+[![MasterHead](https://drive.google.com/file/d/1rR8JKTC1Vx8DqRT0Z4D4JktUP_JjDl_A/view?usp=sharing)
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
